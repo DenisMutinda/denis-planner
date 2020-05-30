@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # denis-planner
 #Adding login screen May 30, 2020 -1500h
 # Adding login screen May 30, 2020 -1500h
+# Added shared_prefences 1618h
